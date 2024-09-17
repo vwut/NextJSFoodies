@@ -13,9 +13,6 @@ export default function MealsPage() {
       </header>
       <main>
         <h2>
-          <Link href="meals/share" className='link'>Share your meals</Link>
-        </h2>
-        <h2>
           <Link href="meals/post-1" className='link'>Post One</Link>
         </h2>
         <h2>
