@@ -56,6 +56,10 @@ svg {
   color: #ddd8d8;
 }
 
+.link {
+  text-decoration: none;
+}
+
 main {
   text-align: center;
 }
@@ -66,5 +70,5 @@ header {
   text-align: center;
   display: flex;
   margin: 2rem 10%;
-  border-bottom: 2px solid #ece1fa;
+  border-bottom: 2px solid blue;
 }
